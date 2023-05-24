@@ -21,4 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 <img src = "https://github.com/arpitaflutter/expense_manager/assets/116253518/06629919-5bff-40b9-89bb-3bcfed4e2f13" height = "30%" width = "30%">
 <img src = "https://github.com/arpitaflutter/expense_manager/assets/116253518/6742552d-6c45-4214-ac5a-48cbcbdc3ca4" height = "30%" width = "30%">
 <img src = "https://github.com/arpitaflutter/expense_manager/assets/116253518/6a1556d1-933a-40d3-96be-49ae808c8e79" height = "30%" width = "30%">
+https://github.com/arpitaflutter/expense_manager/assets/116253518/6650cf1d-1539-4e89-8c4f-04b98f9b7ccb
 </p>

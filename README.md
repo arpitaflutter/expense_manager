@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ![splash](https://github.com/arpitaflutter/expense_manager/assets/116253518/c9cb1baa-a1e2-4905-ab05-be8a338d3547)
 <p>
-<img src = "https://github.com/arpitaflutter/expense_manager/assets/116253518/c9cb1baa-a1e2-4905-ab05-be8a338d3547" height = "30%" width = "30%">
+<src img= "https://github.com/arpitaflutter/expense_manager/assets/116253518/c9cb1baa-a1e2-4905-ab05-be8a338d3547" height = "30%" width = "30%">
 </p>
